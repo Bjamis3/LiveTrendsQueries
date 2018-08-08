@@ -1,0 +1,2 @@
+# LiveTrendsQueries
+LiveTrends Queries
